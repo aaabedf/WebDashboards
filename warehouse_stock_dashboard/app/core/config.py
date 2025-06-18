@@ -1,0 +1,6 @@
+DATABASE_URL = "mssql+pyodbc://f.fareed:Faizaan@092419@10.150.1.225/PRD?driver=ODBC+Driver+17+for+SQL+Server"
+DATABASE_POOL_SIZE = 5
+DATABASE_MAX_OVERFLOW = 10
+DATABASE_ECHO = True
+
+# Additional configuration settings can be added here as needed.
